@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "774407949955",
+    "firebase_url": "https://fir-ltuddnt-default-rtdb.firebaseio.com",
+    "project_id": "fir-ltuddnt",
+    "storage_bucket": "fir-ltuddnt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:774407949955:android:bff95c1b445be31612d5b6",
+        "android_client_info": {
+          "package_name": "com.example.firebase_ltuddnt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDo11NNG7IADvxyBLMqyxXSGwWCVvceA2c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
